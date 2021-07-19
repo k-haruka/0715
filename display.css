@@ -1,0 +1,8 @@
+span{
+    width: 200px;
+    height: 100px;
+    color: #000;
+    border: solid 1px #0000ff;
+    margin-bottom: 10px;
+    display: block;
+}
